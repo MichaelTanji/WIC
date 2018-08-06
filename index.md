@@ -6,11 +6,12 @@ These and many other questions are hotly debated online, at conferences, and whe
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
 ### The Subjects
 
 Cybersecurity (for the purposes of this work an umbrella term that encompases computer security, information security, information assurance, etc) is often derided as yet-another field filled with white men. While the shading might be fairly monochromatic, it is still quite diverse in a number of different ways. Sub-specialities, as noted above, the path that practitioners take to get into the field, not to mention the hard-won attitudes and opinions those practitioners have about the problems we face, both pressing and pedestrian.
 
-In _Working in Cybersecurity_ you'll hear from C-level executives, people who live on the command line, and others who may not necessarily be technical, but play an important role in our ability to succeed nevertheless.
+In _Working in Cybersecurity_ you'll hear from C-level executives, people who live on the command line, and others who may not be technical, but play an important role in our ability to advance the cause nevertheless.
 
 
 ### How to Buy
@@ -18,6 +19,7 @@ In _Working in Cybersecurity_ you'll hear from C-level executives, people who li
 _Working in Cybersecurity_ is available both as an [e-book] as well as [paperback] from Amazon.
 
 Proceeds of the sale of _Working in Cybersecurity_ will be used to pay for scholorships and/or fees to attend training or industry events for aspirants to the field with financial need.
+
 
 ### About the Author
 
