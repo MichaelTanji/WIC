@@ -21,5 +21,5 @@ Proceeds of the sale of _Working in Cybersecurity_ will be used to pay for schol
 
 ### About the Author
 
-Michael Tanji has spent over 20 years successfully fulfilling a number of front-line, managerial, and CxO roles in both the military, government and in commercial concerns. [Learn more](https://michaeltanji.github.io/WIC/About The Author).
+Michael Tanji has spent over 20 years successfully fulfilling a number of front-line, managerial, and CxO roles in both the military, government and in commercial concerns. [Learn more](https://michaeltanji.github.io/WIC/Author).
 
