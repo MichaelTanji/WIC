@@ -17,7 +17,7 @@ In _Working in Cybersecurity_ you'll hear from C-level executives, people who li
 
 _Working in Cybersecurity_ is available both as an [e-book] as well as [paperback] from Amazon.
 
-A portion of the proceeds of the sale of _Working in Cybersecurity_ will be used to pay for scholorships and/or fees to attend training or industry events for aspirants to the field with financial need.
+Proceeds of the sale of _Working in Cybersecurity_ will be used to pay for scholorships and/or fees to attend training or industry events for aspirants to the field with financial need.
 
 ### About the Author
 
