@@ -9,7 +9,7 @@ These and many other questions are hotly debated online, at conferences, and whe
 
 Cybersecurity (for the purposes of this work an umbrella term that encompases computer security, information security, information assurance, etc. - not because its perfectly accurate, but because it makes the subject matter more accessible) is often derided as yet-another field filled with white men. While the shading might be fairly monochromatic, it is still quite diverse in a number of different ways. Sub-specialities, as noted above, the path that practitioners take to get into the field, not to mention the hard-won attitudes and opinions those practitioners have about the problems we face, both pressing and pedestrian.
 
-In _Working in Cybersecurity_ you'll hear from C-level executives, people who live on the command line, and others who may not be technical, but play an important role in our ability to advance the cause nevertheless.
+In _Working in Cybersecurity_ you'll hear from C-level executives, people who live on the command line, and others who may not be technical, but play an important role in our ability to advance the cause nevertheless. [Meet the Subjects](/Subjects).
 
 
 ### How to Buy
