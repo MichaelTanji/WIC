@@ -4,8 +4,6 @@ What’s it really like working in cybersecurity? Do I need a degree? Do I need 
 
 These and many other questions are hotly debated online, at conferences, and wherever hackers, engineers, and policy wonks gather to talk shop. _Working in Cybersecurity_ is a riff on the classic [_Working_](https://amzn.to/2MmWVXS) by Studs Terkel, an oral history of the myriad jobs that existed in the late 1960s and early 1970s, as told to Terkel by those who did them.
 
-You can use the [editor on GitHub](https://github.com/MichaelTanji/WIC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -32,10 +30,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### How to Buy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MichaelTanji/WIC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Working in Cybersecurity_ is available both as an e-book as well as paperback from Amazon.
 
-### Support or Contact
+A portion of the proceeds of the sale of _Working in Cybersecurity_ will be used to pay for scholorships and/or fees to attend training or industry events for aspirants to the field with financial need.
+
+### About the Author
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
