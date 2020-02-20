@@ -1,4 +1,5 @@
-# WIC
-Working In Cybersecurity Project
+# Working in Cybersecurity Project
 
-Interviews and background on the wide range of people who work in what is commonly known today as "cybersecurity."
+## Volume 1
+
+Introductory content, interview extracts, and closing content from the book *[Working in Cybersecurity](https://www.amazon.com/Working-Cybersecurity-C-suite-everywhere-between/dp/1725877759)* by Michael Tanji. An oral history of the careers of a wide range of security practitioners.
