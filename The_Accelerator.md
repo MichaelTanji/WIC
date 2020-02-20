@@ -66,4 +66,6 @@ And I think the last one is the current Assistant Secretary for Cybersecurity an
 
 ---
 
+### Chapter 2: [The Advocate](/The_Advocate.md)
+
 To read the full interview, and learn more about the working lives of a range of security practitioners, order *[Working in Cybersecurity](https://www.amazon.com/Working-Cybersecurity-C-suite-everywhere-between/dp/1725877759)* at Amazon.com.
