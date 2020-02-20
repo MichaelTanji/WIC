@@ -59,6 +59,6 @@ Then, of course, the tech industry in general blew up. I used to get Wired magaz
 
 ---
 
-### Chapter 3: [The_CISO](/The_CISO.md)
+### Chapter 3: [The CISO](/The_CISO.md)
 
 To read the full interview, and learn more about the working lives of a range of security practitioners, order *[Working in Cybersecurity](https://www.amazon.com/Working-Cybersecurity-C-suite-everywhere-between/dp/1725877759)* at Amazon.com.
