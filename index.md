@@ -15,7 +15,7 @@ This site contains the introductory and closing content found in the book *Worki
 [*Working in Cybersecurity*](https://www.amazon.com/Working-Cybersecurity-C-suite-everywhere-between/dp/1725877759) is available both as an e-book as well as paperback from Amazon.
 
 
-### About the Author
+### Start Reading
 
-Michael Tanji has spent over 20 years successfully fulfilling a number of front-line, managerial, and CxO roles in both the military, government and in commercial concerns.
+Its always best to begin at the [Beginning](/Introduction.md)
 
