@@ -35,3 +35,5 @@ So, I think that it could do some good. Providing more emphasis and education ab
 ---
 
 ### Chapter 11: [The Teacher](/The_Teacher.md)
+
+To read the full interview, and learn more about the working lives of a range of security practitioners, order *[Working in Cybersecurity](https://www.amazon.com/Working-Cybersecurity-C-suite-everywhere-between/dp/1725877759)* at Amazon.com.
