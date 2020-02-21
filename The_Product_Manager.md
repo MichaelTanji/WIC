@@ -1,6 +1,6 @@
 # The Product Manager
 
-*Kelly Shortridge came to security by way of finance, a student of the industry and its people long before she decided to join them. Knowing the state of the art, and what those working with the state of the art thought about the future was an excellent way to identify a successful investment or acquisition opportunity. That same knowledge and connections are equally useful now as she manages product development at Security Scorecard.*
+*[Kelly Shortridge](https://www.linkedin.com/in/kellyshortridge/) came to security by way of finance, a student of the industry and its people long before she decided to join them. Knowing the state of the art, and what those working with the state of the art thought about the future was an excellent way to identify a successful investment or acquisition opportunity. That same knowledge and connections are equally useful now as she manages product development at Security Scorecard.*
 
 **Kelly Shortridge:** There is no real “average” day in the life of a product manager. To be fair, everyone says that regardless of what they do, but product management has so many moving parts. Very rarely are you working on just one thing. For example, today I’ve been heads down working on a product requirements document for a new feature. That involves thinking about what we want to expose to the customer, what goes on in the back end, and does it fit in with the long-term vision of the product? At the same time, I’m thinking about existing features, taking in customer feedback, working with the customer success team. On any given day I’ll be talking to a wide range of people in the organization and thinking critically about all these pieces and where we want to take things going forward.
 
@@ -35,10 +35,6 @@ They want their 10x, but they’re mistaken in thinking that the most likely pat
 **There is this prevailing sentiment that we as an industry are a meritocracy. Do you think that’s true?**
 
 I think we’re mostly deluding ourselves, to be honest. Look at Call for Papers—it’s very rare that there isn’t some kind of bias in CFP  selection. Anonymous submissions processes are becoming more common, which is a good first step, but in conferences and other aspects of the industry, it’s really who you know, and people who don’t have that access are left out in the cold. You see it in venture capital too. There is the notion of the “good old boys’” network, which isn’t necessarily so old anymore, but it’s still very true. There is this established network that can be hard to break into, and by the same token people in the network are artificially held up or promoted just because they’re friends with the right people. You see that in a lot of areas of life, but when I hear people talk about “we’re a meritocracy,” and as long as you’re hacking away and producing good work that it’ll work out … when you look at how people treat each other, that’s clearly not true. We strive for this ideal, but our behavior indicates we have a ways to go.
-
-**So the phone rings and it’s the President. He wants you to be the nation’s new cyber czar. What is your primary focus. What do you try to get done?**
-
-Maybe something like the ACA.  If you don’t have ad blockers or anti-virus or other basic defenses, you get fined. I don’t know; I’ve never thought about that (exact scenario). I’ll have to give that some thought. I’d say, if I had complete control, it would be something to tie software vulnerabilities to vendors because that would become an immediate incentive to improve their development process. I’d have to think about that, though, because I can see there being negative effects to something like that.
 
 ---
 
