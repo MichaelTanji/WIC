@@ -11,3 +11,5 @@ Michael is the editor of and a contributor to *[Threats in the Age of Obama](htt
 ---
 
 To read the full interview, and learn more about the working lives of a range of security practitioners, order *[Working in Cybersecurity](https://www.amazon.com/Working-Cybersecurity-C-suite-everywhere-between/dp/1725877759)* at Amazon.com.
+
+[Home](/index.md)
