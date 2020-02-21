@@ -1,8 +1,8 @@
 # The Hacker
 
-*Both professional and amateur students of computer science and security relish the label “hacker” and grimace at its more commonly understood definition as someone who acts with malicious intent. Stephen Watt has experience operating in both worlds, having gotten his start in the field because of a sense of curiosity, and later serving time for tangentially being a part of a cybercrime scheme.*
+*Both professional and amateur students of computer science and security relish the label “hacker” and grimace at its more commonly understood definition as someone who acts with malicious intent. [Stephen Watt](https://en.wikipedia.org/wiki/Stephen_Huntley_Watt) has experience operating in both worlds, having gotten his start in the field because of a sense of curiosity, and later serving time for tangentially being a part of a cybercrime scheme.*
 
-My current employer is Farsight Security, Paul Vixie‘s  company. I’ve been here a little more than a year.  We’re a remote company, meaning that we have a headquarters in California, and we try to do a couple of off-sites once or twice a year to have some face time, but essentially everybody works from home from around the U.S., Canada, and overseas. 
+My current employer is [Farsight Security](https://www.farsightsecurity.com/), [Paul Vixie‘s](https://en.wikipedia.org/wiki/Paul_Vixie)  company. I’ve been here a little more than a year.  We’re a remote company, meaning that we have a headquarters in California, and we try to do a couple of off-sites once or twice a year to have some face time, but essentially everybody works from home from around the U.S., Canada, and overseas. 
 
 **So how did you first get involved in security?**
 
@@ -45,8 +45,6 @@ How do you mean?
 **Someone changes a letter in a URL, and suddenly data that was ostensibly “private” is now viewable by anyone who knows to change that letter. If you were to translate those actions into meatspace, that’s basically trespass. The perpetrator of such a crime wouldn’t be facing years and years and years in prison for that sort of thing, but because it’s “cyber,” it’s a different story. As someone who has his firsthand knowledge of how the system works, what are some ways that we might revise or refine jurisprudence to make things a little more appropriate for the information age?**
 
 I actually want to take a little bit of exception to the idea that digital crimes occupy this special case. I don’t necessarily think that the repercussions of these crimes are anything exorbitant or disproportionate to sentences that are handed down. I think that the one thing that differentiates cybercrimes from others is the media aspect. Consider a comparable crime, something low-key, that nobody really cares about but that might normally carry a sentence of a couple of years. Chances are, the public isn’t necessarily going to be transfixed by that. One thing prosecutors seem to like is the media limelight, and so when the stakes are high, and when there is a certain level of institutional reputation at play, these fights sort of become magnified. I don’t think that computer crimes are really too much of an outlier. I mean, especially when you consider people who go to jail for drugs, who weren’t even distributing. That seems to be an even more sort of immoral use of governmental authority. 
-
-[...]
 
 ---
 
