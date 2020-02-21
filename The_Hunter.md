@@ -1,6 +1,6 @@
 # The Hunter
 
-*Government cybersecurity efforts are a study in contrast. It was the government that essentially invented most cybersecurity principles and practices, but it is also the source of epic failures. Brian Concannon helped to investigate cybersecurity failures both for the government and in the private sector. Having worked the same types of problems from both sides of the fence gives him both perspective and a very clear sense of what it takes to make a difference.*
+*Government cybersecurity efforts are a study in contrast. It was the government that essentially invented most cybersecurity principles and practices, but it is also the source of epic failures. [Brian Concannon](https://www.linkedin.com/in/concannon-brian/) helped to investigate cybersecurity failures both for the government and in the private sector. Having worked the same types of problems from both sides of the fence gives him both perspective and a very clear sense of what it takes to make a difference.*
 
 **Brian Concannon:** Being an entrepreneur, every week is a little different. This week has been all coding. I’m actually making a pivot, which is another common thing in the life of an entrepreneur. Doing some exploration on a product idea; trying to put it out there in front of people as soon as possible to get some market validation. The next few weeks are probably going to be more sitting down with potential customers and getting feedback, trying to sort of validate the concept of the product prior to spending the time and effort to build the whole thing. So, yeah, coding and talking to people.
 
@@ -29,16 +29,6 @@ That’s one of the big reasons, especially as I got more into tool development,
 So, I started off my career in the Bureau on a counterterrorism squad. If you look at their history, the FBI is more about gangs and drugs and white-collar crime and that kind of stuff. And they obviously got pretty good at counterterrorism after 9/11, when they realized they had to get good at it. But then cybersecurity comes along, and it’s something new they’re not good at. When I joined, they were looking for engineers because they knew they would need them, which was smart. But they were behind, and they’ll always lag behind to some extent. Some of it is just that there is so much red tape that they have to navigate. They can’t move quickly and leverage technology as quickly as the private sector can.
 
 But I think they do need to continue to evolve and work more closely with the private sector like I talked about before, kind of a team effort. I think they need to make better use of the private sector in terms of not only the technology and tools that have been developed, which are arguably better than what they can develop on their own, but also in information sharing too. The classified aspects of the work make it really difficult to share information and to leverage tools in the private sector. So, I think that’s where they’re going to continue to evolve. You don’t want to have to grow the FBI so big that they can handle all of this. That would be ridiculous, so they need to do what they’re good at, but better leverage the private sector.
-
-**What don’t you like about the cybersecurity industry?**
-
-We’re all a little bit cynical, and probably for good reason. I like the industry because I feel like there’s a sense of mission, and we can do some good. At the same time, I think we’re a little bit exclusive. I feel like it’s an industry that needs people badly, and we often don’t treat people, especially new people, very well. I feel like we need to treat outsiders a little bit better, but other than that, I don’t have too many dislikes.
-
-**If you are in this industry long enough, you only have to wait a couple of years before there’s some new hotness. Today, threat hunting is ascendant. Before that it was endpoint detection and response. Before that it was all about the network. If you look three or four years out, what do you think people are going to be focusing on?**
-
-I’m focused on analytics, and I’m hoping that in a couple of years, using big data analytics and feeding that into machine learning is going to be a big thing. I think it’s also a big marking  term, which can confuse people and detract from the potential, but I still feel like it’s fairly young in terms of that potential. It’s not anywhere near an end-all, be-all at this point. Machine learning makes a lot of bad decisions, but it also makes a lot of good ones and saves us from having to spend an inordinate amount of time sifting through alerts.
-
-But now that you asked, I’m actually starting to think about what five years from now might look like. At this point, though, I don’t have any big prognostications.
 
 ---
 
