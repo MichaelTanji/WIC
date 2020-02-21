@@ -1,4 +1,6 @@
-## Who works in cybersecurity? It is a much more diverse community than you might think...
+## Who works in cybersecurity? 
+
+#### It is a much more diverse community than you might think...
 
 ### Volume I Subjects
 
