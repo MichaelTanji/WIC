@@ -17,5 +17,5 @@ This site contains the introductory and closing content found in the book *Worki
 
 ### Start Reading
 
-Its always best to begin at the [Beginning](/Introduction.md) but you can also jump directly to the stories of [any particular subject](/Subjects.md) of this volume if you prefer.
+Its always best to begin at the [beginning](/Introduction.md), but you can also jump directly to the stories of [any particular subject](/Subjects.md) of this volume if you prefer.
 
