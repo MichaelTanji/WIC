@@ -1,6 +1,6 @@
 # THE CISO
 
-*Soldier, Marine, cop, professor, Chief Information Security Officer—there are not many jobs Samuel Liles has not had. He has an enviable track record of success in both military and civilian, academic, and commercial domains, and he is probably the most influential practitioner you’ve never heard of. His story is a reminder that while cybersecurity is important, it’s not as important as we think, and the best and brightest, as well as the most experienced, might not always be where they’re needed the most.*
+*Soldier, Marine, cop, professor, Chief Information Security Officer—there are not many jobs [Samuel Liles](https://www.linkedin.com/in/drliles/) has not had. He has an enviable track record of success in both military and civilian, academic, and commercial domains, and he is probably the most influential practitioner you’ve never heard of. His story is a reminder that while cybersecurity is important, it’s not as important as we think, and the best and brightest, as well as the most experienced, might not always be where they’re needed the most.*
 
 **Sam Liles:** The average day  starts by getting situational awareness of what happened overnight. I accomplish that in the early morning. We  have a worldwide operation, so I must gain a good understanding of what the security team, the DevOps team, and the operational teams have done. That includes going through a news feed about issues that may not have impacted us directly but may have an indirect impact or may affect us in the future. Then I start trying to get with directors and team leads to understand what they’re doing to get the op tempo  of the day.
 
@@ -38,8 +38,6 @@ While there, I became the Senior Intelligence Officer for the Department of Home
 
 Apparently, being identified as a Russian investigator was not a good career move, but I figured it was better to sacrifice myself on the altar of public opinion than to put one of the actual career intelligence officers in that position. I had a public career and the background to withstand the scrutiny and whatever came down the pike from a political perspective, but you take someone who’s spent their career in the shadows and toss them out there—that would not have been cool.  
 
-[...]
-
 **What skills have helped you navigate and be successful in so many different domains?**
 
 When I was a young guy, it was the ability to take a punch. I was more than willing to lead with my chin and be very, very bullheaded about things that I had to get into . That really did translate well when getting into cybercrime because when chasing bad guys around in cyberspace, it can be difficult and time consuming, but you can’t just give up. 
@@ -50,35 +48,7 @@ Business acumen. I’ve started businesses, operated businesses, and I got divor
 
 Finally, at some point in my career, I went from being a total techno-weenie, knowing and being able to rip apart every operating system, and disassembly of applications, to where I am now … talking about culture and history and innovative organizational change. The technology part is easy; the people part is hard. I’m not even sure when that happened in my career, but I see that shift has happened. All that previous experience, that sense of determination to get the job done and being able to withstand the stress—those are the things that form the bedrock of my success. I’ve also learned a lot from my failures. Failure is a tremendous teacher because you have to listen or continue to fail. 
 
-[...]
-
-**Another issue in the field is the “talent shortage.” There seem to be two schools of thought: One is that there is a talent shortage. The other is that there is all the talent we need, it’s just not being properly managed. Where do you fall out on that?**
-
-There is no such thing as a talent shortage. That’s where I fall out on the topic. 
-
-The thing is, we barely understand the paradigm of managing security at an enterprise level, if we do even understand it at all. The idea of integrating security into business is relatively new in the paradigm of academia. Even that principle isn’t an accurate structure for focusing a security program. In academia, if it’s not 200 years old, they don’t consider the debate over. There is no “law of security” or how to build a good security program. Trying to manage and measure things programmatically, you know, I’m still pulling out references to Drucker  with my staff, and they’re going, “Who?” 
-
-A car is by far better understood than any given information technology. We have mechanics and professions surrounding automobiles and the auto industry, but we have yet to professionalize things in security. We have people burning out because they are being mismanaged. We have this horrible idea that IT guys are all white collar when they are really blue collar. We’re using less than 20 percent of an entire gender to solve the security program. There is no talent shortage. What we have is a complete misuse of the talent we have available. 
-
-**Looking at the cybersecurity industry writ  large, what are we doing wrong?**
-
-Treating people that are blue-collar workers as white-collar workers so we can use the salary rules to basically drive the population of workers into burnout. The whole point of salaried employees is you give them a salary for X amount of time, you give them bonuses on top of that, and if they show up 30 hours one week for 60 hours the next, as long as the job gets done you’re good to go. We don’t do that. We give people a salary, tell them they are white-collar workers, and say, “Go work 80 hours a week …forever.” That causes burnout.
-
-The other thing is that we allow a certain amount of arrogance and unprofessionalism to permeate the IT environment. I call it the vendor-polo-shirt-in-the-suit environment. Not all shops are this way, but I’ve seen it so many times where I’m sitting in a meeting, and everyone is in suits and ties. Then in comes the IT guy, and he’s wearing a vendor’s t-shirt and trying to make a business case to people that are going to allocate functional elements of the bottom line, and he can’t understand why he isn’t getting the attention he needs, so he gets frustrated and leaves. He shot himself in the foot by not understanding the gravitas. When you’re talking hundreds of thousands of dollars, you’ve got to show up and behave in an appropriate way. It becomes this self-replicating process that we can’t figure out how to break.
-
-Another thing is the way we pay IT guys. We apply an industrial pay scale to information technology guys, because they are basically blue-collar workers. We give them incremental pay raises that have nothing to do with assessable skills. We control costs by putting them in pay-bands that fit our expectations. We don’t pay them what they’re worth. You hire a guy on January 1st, and if he’s got four new certifications by September 1st, you don’t give him a yearly increment, you give him whatever those demonstrable skills are worth to your business. 
-
-We don’t think about it this way, but IT guys should probably be on some kind of sales pay scheme versus a standard industrial worker’s scale. Similarly, if they fail at their job, they shouldn’t get paid for that. That’s just so far outside of what people are willing to think about in IT, though, because people will quit, and if people quit we have a tendency to think, “Oh my God, I lost 20 percent of my IT staff!” So what? If they were low performers who couldn’t cut it, so what? I’d rather have high performers than low performers. Those are the kinds of things about the workforce, the working on working things, that we’re just not willing to consider.
-
-[...]
-
-**What sort of things not related to security help you think about security problems or address security issues?**
-
-I’m an adventurer at heart, so the number one thing that I do is long-distance motorcycle riding, like the Iron Butt Rally, which is 11 days and 11,000 miles.  People say, “What does that have to do with security?” It’s all about risk mitigation, risk management, and understanding that failure can be catastrophic and very painful, which is something I learned during the last event. You have to take the pieces of the puzzle and put them together in a rhyme or reason that creates a pathway through that puzzle with the least amount of risk, so that you can successfully complete the task. It’s a large puzzle solving writ with North America as the board. 
-
-Similarly, I’m into open-ocean sailing . I haven’t done that as much as riding motorcycles, but I’ve always done it one way or another, in some way shape or form, on my own boat or other people’s boats for a long time. I was raised on a boat, and now I live on a boat again, which is a dream I’ve wanted to get back to as I’ve become an empty nester. It’s the same thing with regards to risk mitigation and understanding threats and watching for vulnerabilities because if you’re out in the middle of the ocean and something bad happens, you’re out in the middle of the ocean and something bad has happened.  In those situations, you have to engineer a solution for the problem utilizing whatever resources are on hand. I don’t have an open checkbook where I can address everything at once, so I have to prioritize. It’s the same thing with a security program in a business. 
-
- ---
+---
 
 ### Chapter 4: [The CTO](/The_CTO.md)
 
